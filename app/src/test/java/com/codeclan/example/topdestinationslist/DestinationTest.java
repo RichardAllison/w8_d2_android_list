@@ -21,7 +21,7 @@ public class DestinationTest {
 
     @Test
     public void getCityTest() {
-        assertEquals("Venice", destination.getCity());
+        assertEquals("Venice", destination.getDestination());
     }
 
     @Test
